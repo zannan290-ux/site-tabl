@@ -1,8 +1,12 @@
-<НТМL>
-<HEAD>
-<ТIТLЕ> Таблицы </ТIТLЕ>
-</HEAD>
-<BODY>
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>My Playground</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body><НТМL>
+
 <H1 ALIGN=CENTER> Coздание таблиц </Н1>
 <TABLE BORDER=1>
 <TR>
@@ -28,3 +32,5 @@
 </TABLE>
 </BODY>
 </HTML>
+    </body>
+</html>
